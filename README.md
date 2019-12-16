@@ -1,6 +1,4 @@
-<p align="center">
-    <h1>Keep origin attributes' name instead of being lowercased</h1>
-</p>
+
 <p align="center">
     <a href="https://github.com/inikulin/parse5">
         <img src="https://raw.github.com/inikulin/parse5/master/media/logo.png" alt="parse5" />
