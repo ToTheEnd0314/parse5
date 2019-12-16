@@ -1,10 +1,10 @@
 {
-    "name": "parse5",
+    "name": "parse5-byy",
     "description": "HTML parser and serializer.",
-    "version": "5.1.1",
+    "version": "5.1.2",
     "author": "Ivan Nikulin <ifaaan@gmail.com> (https://github.com/inikulin)",
     "contributors": "https://github.com/inikulin/parse5/graphs/contributors",
-    "homepage": "https://github.com/inikulin/parse5",
+    "homepage": "https://github.com/ToTheEnd0314/parse5",
     "keywords": [
         "html",
         "parser",
