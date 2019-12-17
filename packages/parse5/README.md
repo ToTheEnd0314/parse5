@@ -1,5 +1,5 @@
 <p align="center">
-    <h1>Keep origin attributes' name instead of being lowercased</h1>
+    <strong>Keep initial attributes' name instead of being lowercased</strong>
 </p>
 <p align="center">
     <a href="https://github.com/inikulin/parse5">
