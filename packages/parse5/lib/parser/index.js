@@ -1154,7 +1154,14 @@ function startTagInHead(p, token) {
 
     if (tn === $.HTML) {
         startTagInBody(p, token);
-    } else if (tn === $.BASE || tn === $.BASEFONT || tn === $.BGSOUND || tn === $.LINK || tn === $.META) {
+    } else if (
+        tn === $.BASE ||
+        tn === $.BASEFONT ||
+        tn === $.BGSOUND ||
+        tn === $.LINK ||
+        tn === $.META ||
+        tn === $.BYY
+    ) {
         p._appendElement(token, NS.HTML);
         token.ackSelfClosing = true;
     } else if (tn === $.TITLE) {

@@ -44,6 +44,7 @@ const $ = (exports.TAG_NAMES = {
     BODY: 'body',
     BR: 'br',
     BUTTON: 'button',
+    BYY: 'byy',
 
     CAPTION: 'caption',
     CENTER: 'center',
@@ -186,6 +187,7 @@ exports.SPECIAL_ELEMENTS = {
         [$.BODY]: true,
         [$.BR]: true,
         [$.BUTTON]: true,
+        [$.BYY]: true,
         [$.CAPTION]: true,
         [$.CENTER]: true,
         [$.COL]: true,
